@@ -1,9 +1,5 @@
 {
-  "comments":{
-   {
-	"text":"bla bla bla"
-	}
-
+  "comment":{
+    "text":"bla bla bla"
   }
-
 }
